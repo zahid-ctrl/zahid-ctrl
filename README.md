@@ -19,5 +19,6 @@ Hi, I am Zahid, a 2nd year student of CSE
     <img align="left" alt="instagram" width="26px" src="https://skillicons.dev/icons?i=instagram" style="padding-right:10px;" />
 </a>
 <a href="https://www.facebook.com/zahidhasan.zahid123" target="_blank" rel="noopener noreferrer">
-    <img align="left" alt="facebook" width="26px" src="https://skillicons.dev/icons?i=facebook" style="padding-right:10px;" />
+    <img align="left" alt="facebook" width="26px" src="https://raw.githubusercontent.com/your-username/your-repo/main/facebook.svg" style="padding-right:10px;" />
 </a>
+
