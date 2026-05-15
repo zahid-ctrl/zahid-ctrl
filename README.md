@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, I am Zahid, a 2nd year student of CSE
+Hi, I am Zahid, a 3rd year student of CSE
 #
 
 ### Github Stats
