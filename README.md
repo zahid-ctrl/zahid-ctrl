@@ -2,11 +2,12 @@
 Hi, I am Zahid, a 2nd year student of CSE
 #
 
-### Github Stats:
+### Github Stats
 
-| GitHub Stats | Top Languages |
-|-------------|---------------|
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=zahid-ctrl&theme=nightowl&show_icons=true" alt="Md Zahid Hasan's GitHub stats" /></a> | <a><img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahid-ctrl&layout=compact&langs_count=8&card_width=320&theme=nightowl" /></a> |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zahid-ctrl&show_icons=true&theme=nightowl" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahid-ctrl&layout=compact&theme=nightowl" height="180"/>
+</p>
 ### How to reach me:
 <a href="https://www.linkedin.com/in/md-zahid-hasan-2586972a8" target="_blank" rel="noopener noreferrer">
     <img align="left" alt="linkedin" width="26px" src="https://skillicons.dev/icons?i=linkedin" style="padding-right:10px;" />
